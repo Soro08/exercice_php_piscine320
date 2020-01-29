@@ -1,5 +1,8 @@
 # exercice_php_piscine320
-Exercice PHP
+
+Piscine NaN 3.20 
+
+# Exercice PHP
 
 ## Exercice 1
 
