@@ -25,3 +25,7 @@ Exercice PHP
 Réaliser le Formulaire suivant : 
 
 ![file](https://www.cours-gratuit.com/images/stories/formulaire1.jpg)
+
+
+
+`NaN Programmer! Nannnnn C'est pas sorcier.`
