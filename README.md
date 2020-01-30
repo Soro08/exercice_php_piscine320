@@ -10,6 +10,7 @@ Le minimum à atteindre :
 - Une page qui permette de présenter proprement la liste des contacts. Vous avez le choix sur le sens à donner au mot « proprement » : en tableau, en liste, etc. L'important est que ce soit lisible.
 On doit pouvoir passer facilement d'une page à l'autre : soit des liens entre les pages, soit une page d'accueil.
 - Des améliorations possibles, qui ne seront prises en compte que ce qui précède est réalisé :
+  - Ajout du champs `photo`.
   - La liste affichée pourra être mise dans l'ordre alphabétique (voir la fonction « sort »).
   - On pourra offrir la possibilité de supprimer un contact.
   - On pourra offrir la possibilité de modifier un contact.
